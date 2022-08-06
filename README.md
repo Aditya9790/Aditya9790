@@ -23,10 +23,9 @@ Skills: C++, Python, Scikit-Learn, MATLAB, R
 
 <img src='https://github-readme-stats.vercel.app/api?username=Aditya9790&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>&nbsp; &nbsp;  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aditya9790&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya9790)  
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya9790)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya9790)  
 
 
 
