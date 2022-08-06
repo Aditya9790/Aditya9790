@@ -7,6 +7,8 @@
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"  background-color="white"/>
 </a><br>
 
+![image.png](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 #### I am a third year(TY) student from department of Instrumentation and Control. Currently I am learning Deep Learning and Advanced Data Structures and Algorithms in C++. Currently working on basic Machine Learning projects and trying to deep dive the fast field of Data Science.
 
 Skills: C++, Python, Scikit-Learn, MATLAB, R
@@ -16,6 +18,8 @@ Skills: C++, Python, Scikit-Learn, MATLAB, R
 - 💬 Ask me about Machine Learning or Probability and Statistics  
 
 ![Profile views](https://gpvc.arturio.dev/Aditya9790)
+
+![image.png](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <img src='https://github-readme-stats.vercel.app/api?username=Aditya9790&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>&nbsp; &nbsp;  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aditya9790&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
