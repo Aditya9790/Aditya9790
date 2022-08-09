@@ -27,7 +27,6 @@
 - 💬 Ask me about Machine Learning or Probability and Statistics  
 
 ![Profile views](https://gpvc.arturio.dev/Aditya9790)
-
 ![image.png](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### Socials
