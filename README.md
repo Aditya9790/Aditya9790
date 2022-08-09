@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Aditya
+## Hi there 👋, my name is Aditya
 
 <a href="https://www.linkedin.com/in/adityagole9790/" target="_blank">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -8,6 +8,8 @@
 </a><br>
 
 ![image.png](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
 #### I am a third year(TY) student from department of Instrumentation and Control. Currently I am learning Deep Learning and Advanced Data Structures and Algorithms in C++. Currently working on basic Machine Learning projects and trying to deep dive the fast field of Data Science.
 
