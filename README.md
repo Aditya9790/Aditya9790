@@ -3,7 +3,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/Aditya9790)
 
-#### I am a third year(TY) student from department of Instrumentation and Control. Currently I am learning Deep Learning and Advanced Data Structures and Algorithms in C++. Currently working on basic Machine Learning projects and trying to deep dive the fast field of Data Science.
+#### I am a final year(B.tech) student from department of Instrumentation and Control. Currently I am learning Deep Learning and Advanced Data Structures and Algorithms in C++. Currently working on various Machine Learning projects and trying to deep dive the fast field of Data Science.
 
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on [Machine Learning Blog](github.com/Aditya9790/Machine-Learning)
 
-- 🌱 I’m currently learning **React and Deep learning**
+- 🌱 I’m currently learning **Deep learning and PowerBi**
 
-- 👯 I’m looking to collaborate on **Deep Learning Project**
+- 👯 I’m looking to collaborate on **Fascinating Data Science Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aditya9790/](https://github.com/Aditya9790/)
 
