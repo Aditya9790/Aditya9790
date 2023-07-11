@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Gole</h1>
 <h3 align="center">A passionate ML Enthusiast and budding fullstack developer from India</h3>
 
-![Profile views](https://gpvc.arturio.dev/Aditya9790)
+![](https://komarev.com/ghpvc/?username=Aditya9790&color=green&style=plastic&label=PROFILE+VIEWS)
 
-#### I am a final year(B.tech) student from department of Instrumentation and Control. Currently I am learning Deep Learning and Advanced Data Structures and Algorithms in C++. Currently working on various Machine Learning projects and trying to deep dive the fast field of Data Science.
+#### I am a ML enthusiast and, an aspiring Data Scientist and a Kaggle Expert who loves making sense out of data and who thrives on creating insights and going above and beyond with each and every task. Finding pride in building models that translate data points into business insights.
 
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
